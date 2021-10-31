@@ -1,1 +1,1 @@
-# csc_448_AI_notebooks
+# CSC_448_AI_Notebooks
